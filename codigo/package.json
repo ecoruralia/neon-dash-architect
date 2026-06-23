@@ -1,0 +1,10 @@
+{
+  "name": "neon-dash",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A neon arcade dodge game",
+  "scripts": {
+    "dev": "npx serve . -l 8080 --no-clipboard"
+  },
+  "license": "MIT"
+}
